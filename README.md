@@ -179,7 +179,7 @@ Use the [GitHub Issues page](https://github.com/linuxaether/issues) to report bu
 
 ## License
 
-Linux Aether is released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this software under the terms of this license.
+Linux Aether is released under the [AGPL-3.0 license](https://www.gnu.org/licenses/agpl-3.0.en.html)]. You are free to use, modify, and distribute this software under the terms of this license.
 
 ---
 
